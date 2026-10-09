@@ -1,7 +1,5 @@
 <div align="center">
 
-# Intake
-
 **AI customer support that answers, acts, and hands off when it should.**
 
 [Website](https://www.intake.es/en) · [Docs](https://docs.intake.es) · [Blog](https://www.intake.es/en/blog) · [Pricing](https://www.intake.es/en/pricing) · [Contact](https://www.intake.es/en/contact)
