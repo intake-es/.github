@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 ## What we do
 
 Intake answers your customers using your own knowledge: your articles, your documents, and the way your team works. When a case needs a person, it hands it to your team with the full context.
